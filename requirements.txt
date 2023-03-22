@@ -1,6 +1,7 @@
 django
-sklearn
+scikit-learn
 pandas
 numpy
 matplotlib
 seaborn
+flask
